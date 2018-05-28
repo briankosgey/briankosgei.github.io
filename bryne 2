@@ -1,0 +1,38 @@
+DOCTYPE html>
+<html>
+<head>
+	<title>MY COMPLETE WEBSITE</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<style type="text/css">
+          li a{
+          	padding:30px;
+            font-family: Gabriola;
+            border-radius:30px;
+            font-size: 22px 
+            margin:20px;  }
+</style>
+</head>
+<body>
+ 	<nav class="navbar navbar-inverse">
+	  	<div class="container-fluid">
+			<div class="navbar-header">
+				<a href="#" class="navbar-brand">may after</a>
+			</div>
+			<ul class="navbar-nav">
+				<li class="active"><a href="#">HOMEPAGE</a></li>
+				<li><a href="#">ABOUTUS</a>/<li>
+				<li><a href="#">CONTACTUS</a>/<li>
+			</ul>
+				</div>
+	</nav>
+	<div class="well-lg">
+		<form style="margin-left: 40%">
+			<input type="email" name="emial" placeholder="Enter email adress" style="color: black;"><br><br>
+			<textarea rows="12" cols="34" style="border-radius: 5px" color:black>enter your comment here</textarea>
+			
+		</form>
+		
+	</div>
+
+</body>
+</html>
